@@ -14,7 +14,7 @@ Solar panels  - energy production and usage analysis
 * if production covers energy usage
 
 ## The examples of graphs from project:
-### ![](https://github.com/Asiasia123/Joanna_Portfolio/blob/main/images/graphs.png)
+![](images/graphs.png)
 
 ## There are below files connected to the project:
 * database (in Excel)
