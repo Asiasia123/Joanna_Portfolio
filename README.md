@@ -1,7 +1,7 @@
 # Joanna_Portfolio
 Solar panels  - energy production and usage analysis
 
-## Project’s goal is to show:
+## [Project’s goal is to show:](https://asiasia123.github.io/Joanna_Portfolio/)
 * production and export during year (daily)
 * usage total (sum of usage own and import) during year (daily)
 * mean production vs. mean usage total (monthly) 
