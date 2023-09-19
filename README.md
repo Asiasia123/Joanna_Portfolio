@@ -12,3 +12,5 @@ Solar panels  - energy production and usage analysis
 * yearly figures (sum of values)
 * level of indicator of usage own
 * if production covers energy usage
+
+![](https://asiasia123.github.io/Joanna_Portfolio/images/Rplot.png)
