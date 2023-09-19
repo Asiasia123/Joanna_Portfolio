@@ -1,7 +1,7 @@
 # Joanna_Portfolio
 Solar panels  - energy production and usage analysis
 
-## [Project’s goal is to show:](https://asiasia123.github.io/Joanna_Portfolio/)
+## Project’s goal is to show:
 * production and export during year (daily)
 * usage total (sum of usage own and import) during year (daily)
 * mean production vs. mean usage total (monthly) 
@@ -16,3 +16,9 @@ Solar panels  - energy production and usage analysis
 ## Below, you can see the example of plot from project.
 ![](https://asiasia123.github.io/Joanna_Portfolio/images/Rplot.png)
 
+## There are below files connected to the project:
+* database (in Excel)
+* script (in R)
+* presentation (in PowerPoint)
+
+## [Link to Github](https://github.com/Asiasia123/Joanna_Portfolio)
