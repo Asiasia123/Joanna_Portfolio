@@ -13,4 +13,6 @@ Solar panels  - energy production and usage analysis
 * level of indicator of usage own
 * if production covers energy usage
 
+## Below, you can see the example of plot from project.
 ![](https://asiasia123.github.io/Joanna_Portfolio/images/Rplot.png)
+
